@@ -1,0 +1,8 @@
+3572bc99935cfef275628e101161068e *DESCRIPTION
+c27ff05140c7872818cda21a55ddb9a2 *NAMESPACE
+2acba656ee62ecd68bb1227fe5b4ea32 *R/bestthr.R
+4a97558773b88cc884c7a4be16b3d5dc *R/ranlasforsim.R
+5c7877235c1afe6b81d872e447cf43a9 *man/mirl.Rd
+ba593af41d2f2696ba32b23d5cc5bb91 *man/threshold.Rd
+6f5feed45ddfb2626f36e796f3296e20 *tests/testcode.R
+6d0c23ef1d36b0c864d60a2c0033ef94 *tests/testcode.Rout.save
